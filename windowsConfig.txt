@@ -13,5 +13,7 @@ anaconda, gitgutter,
 
 darkmode youtube -->document.cookie="VISITOR_INFO1_LIVE=fPQ4jCL6EiE"
 
+nmap for windows, wireshark 
+
 
 
