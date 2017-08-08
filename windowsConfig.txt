@@ -1,0 +1,17 @@
+install programs
+chrome, avast, sublime
+git-for-windows, xampp, vim, anaconda3
+netbeans, keepass, composer
+
+for git
+git-for-windows
+posh-git
+
+for sublime
+sublimeJedi python autocomplete, autopep8, flake8, sublimelinter-pep8, pylinter
+anaconda, gitgutter,
+
+darkmode youtube -->document.cookie="VISITOR_INFO1_LIVE=fPQ4jCL6EiE"
+
+
+
